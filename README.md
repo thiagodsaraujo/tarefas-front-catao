@@ -21,5 +21,5 @@ No terminal, navegue até a pasta do projeto e execute:
 ```bash
 docker build -t thiagodsaraujo/tarefas_front .
 
-docker run -d -p 3000:80 thiagodsaraujo/tarefas_front
+docker run -d -p 3000:80 thiagodsaraujo/tarefas-front-catao
 
